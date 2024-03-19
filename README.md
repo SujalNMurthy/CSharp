@@ -30,3 +30,6 @@ An abstract class in object-oriented programming (OOP) is a class that cannot be
 ## 12. Interface Resizable
 The Interface Resizable, as the name suggests, defines a contract for objects that can be resized. It typically contains one or more methods related to resizing, such as adjusting the width, height, or both dimensions of an object.
 
+## Contributor
+- [Victor Ikechukwu Agughasi](https://github.com/Victor-Ikechukwu)
+- [Sujal N Murthy](https://github.com/SujalNMurthy)
